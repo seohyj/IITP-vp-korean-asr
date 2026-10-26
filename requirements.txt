@@ -1,0 +1,11 @@
+# server
+torch==2.3.1
+transformers==4.57.1
+peft==0.17.1
+numpy==2.0.2
+soundfile==0.13.1
+librosa
+fastapi
+uvicorn
+# client
+requests
